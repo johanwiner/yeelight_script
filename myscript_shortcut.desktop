@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mystartup
+Comment=Launch mystartup.sh in /etc/init.d/mystartup
+Icon=
+Type=Application
+Path=/etc/init.d/
+Exec=/etc/init.d/mystartup.sh
+Terminal=false
+StartupNotify=false
